@@ -1,0 +1,9 @@
+I have installed Tailwind, Alpine, Livewire using the package recommended by QuickAdmin
+
+
+composer require livewire/livewire laravel-frontend-presets/tall
+php artisan ui tall
+npm install
+npm run dev
+
+https://github.com/laravel-frontend-presets/tall

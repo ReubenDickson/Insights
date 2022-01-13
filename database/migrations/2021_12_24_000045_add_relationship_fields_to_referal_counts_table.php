@@ -1,0 +1,18 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AddRelationshipFieldsToReferalCountsTable extends Migration
+{
+    public function up()
+    {
+        Schema::table('referal_counts', function (Blueprint $table) {
+            $table->unsignedBigInteger('user_id');
+            $table->foreign('user_id', 'user_fk_5661123')->references('id')->on('users');
+            $table->unsignedBigInteger('sponsor_id')->nullable();
+            $table->foreign('sponsor_id', 'sponsor_fk_5661128')->references('id')->on('users');
+        });
+    }
+}

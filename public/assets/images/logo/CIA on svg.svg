@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.63728in" height="1.92567in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2544 1858"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:23.8801}
+    .fil5 {fill:none}
+    .fil4 {fill:#FEFEFE}
+    .fil1 {fill:#201E1E}
+    .fil0 {fill:#201E1E}
+    .fil3 {fill:#83331D}
+    .fil2 {fill:#90989E}
+    .fil6 {fill:#90989E}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1902498498320">
+   <polygon class="fil0" points="380,1527 303,1531 309,1496 393,1496 "/>
+   <polygon class="fil1" points="464,1366 257,1373 210,1310 217,1300 545,1291 543,1375 "/>
+   <polygon class="fil0" points="608,1189 300,1190 371,1096 688,1092 "/>
+   <polygon class="fil1" points="2035,1007 430,1018 526,889 2126,884 "/>
+   <polygon class="fil1" points="1875,803 586,810 684,680 1978,676 "/>
+   <polygon class="fil1" points="725,625 1710,629 1592,482 833,482 "/>
+   <polygon class="fil1" points="1567,451 849,448 996,287 1435,287 "/>
+   <polygon class="fil1" points="1410,257 1203,0 1002,261 "/>
+   <polygon class="fil2" points="1220,438 1379,633 900,1262 2544,1256 2345,1520 333,1527 "/>
+   <polygon class="fil3" points="1203,0 1552,0 2544,1256 900,1262 1107,991 2012,1003 "/>
+   <polygon class="fil4" points="1676,999 1379,633 1107,991 "/>
+   <g>
+    <path class="fil5 str0" d="M2063 179c34,45 55,97 64,156 -2,-2 -4,-5 -7,-7 -10,-50 -29,-95 -59,-133 -200,-260 -794,-132 -1326,285 -533,417 -766,1013 -603,1226 164,213 458,119 787,-4 46,-7 -608,316 -836,19 -208,-270 47,-834 600,-1260 554,-426 1171,-551 1379,-281z"/>
+    <path id="1" class="fil6" d="M2063 179c34,45 55,97 64,156 -2,-2 -4,-5 -7,-7 -10,-50 -29,-95 -59,-133 -200,-260 -794,-132 -1326,285 -533,417 -766,1013 -603,1226 164,213 458,119 787,-4 46,-7 -608,316 -836,19 -208,-270 47,-834 600,-1260 554,-426 1171,-551 1379,-281z"/>
+   </g>
+  </g>
+ </g>
+</svg>

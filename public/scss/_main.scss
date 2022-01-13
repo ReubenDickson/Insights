@@ -1,0 +1,57 @@
+
+
+
+//CUSTOM VARIABLES
+
+$primary: #220147;
+$secondary: #371f52;
+$light: #fbf5e5;
+
+$pink: #220147;
+$footer: #151414;
+
+
+//wHITE AND GRAY COLORS
+
+$white:    #fff ;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
+// ACCORDION COLORS
+
+$accordion-icon-color:                    $primary;
+$accordion-icon-active-color:             $secondary;
+
+//ACCORDION BUTTON ICON
+
+$accordion-button-icon:         url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$accordion-icon-color}'><path fill-rule='evenodd' d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/><path d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/></svg>");
+$accordion-button-active-icon:  url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$accordion-icon-active-color}'><path fill-rule='evenodd' d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/><path d='M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z'/></svg>");
+
+
+// ACCORDION DIMENSION
+
+$accordion-icon-width:                    1.875rem;
+
+//IMPORTANT FUNCTIONS AND VARIABLE
+
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+
+//CREATING OUR CUSTOM MAP
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+// @import '../node_modules/bootstrap/scss/mixins/';
+// @import '../node_modules/bootstrap/scss/utilities/';
+// @import '../node_modules/bootstrap/scss/reboot';
+// @import '../node_modules/bootstrap/scss/transitions';
+// @import '../node_modules/bootstrap/scss/navbar';

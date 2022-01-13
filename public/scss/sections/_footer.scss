@@ -1,0 +1,9 @@
+@use '../main' as *;
+@use '../components/mixins' as *;
+
+
+.footer {
+    background-color: $footer;
+    padding-top: 1rem;
+    
+}
